@@ -1,0 +1,6 @@
+framework module GXNetworking {
+  umbrella header "GXNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

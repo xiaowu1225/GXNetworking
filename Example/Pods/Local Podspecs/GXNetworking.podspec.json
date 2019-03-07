@@ -1,0 +1,22 @@
+{
+  "name": "GXNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of GXNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/siguoxi/GXNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "siguoxi": "suiyuan78223@163.com"
+  },
+  "source": {
+    "git": "https://github.com/siguoxi/GXNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GXNetworking/Classes/**/*"
+}

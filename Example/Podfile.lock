@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GXNetworking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GXNetworking (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GXNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GXNetworking: 6a2a394cfd9012897d83a9188ff8625aa113df6f
+
+PODFILE CHECKSUM: 15c20bb51e4dd415e454c4152d9488f43b036754
+
+COCOAPODS: 1.5.3
